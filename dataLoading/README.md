@@ -32,6 +32,8 @@ Azure Data Studio is a cross-platform database tool for data professionals who u
 
 [Azure Data Studio Download](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
 
+## Data Loading in Azure SQL
+
 ### Create the table
 
 ```
