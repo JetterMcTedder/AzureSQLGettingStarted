@@ -2,6 +2,9 @@
 
 #### Version 1.0 (2022-08-25)
 
+
+**For detailed steps, please reference the blog posting [here](https://www.itworkedyesterday.com/2022/08/25/loading-data-into-azure-sql-with-azure-data-studio-and-azure-blob-storage/)**
+
 ## Pre-Requisites
 
 ### Create a **free** Azure Accout
@@ -33,6 +36,8 @@ Azure Data Studio is a cross-platform database tool for data professionals who u
 [Azure Data Studio Download](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio)
 
 ## Data Loading in Azure SQL
+
+**For detailed steps, please reference the blog posting [here](https://www.itworkedyesterday.com/2022/08/25/loading-data-into-azure-sql-with-azure-data-studio-and-azure-blob-storage/)**
 
 ### Create the table
 
