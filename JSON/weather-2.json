@@ -1,0 +1,10 @@
+{
+    "weatherStationId": "1001001",
+    "date": "2022-08-08T16:00:00Z",
+    "temperature": "68",
+    "temperature_unit": "Fahrenheit",
+    "wind_speed": "5",
+    "wind_speed_units": "mph",
+    "wind_direction": "S",
+    "humidity": "88"
+}
